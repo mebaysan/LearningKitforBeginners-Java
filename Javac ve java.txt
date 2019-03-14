@@ -1,0 +1,12 @@
+javac dosyalarýný cmd üzerinde kullanmak için jdk ve jre dosya uzantýlarýný ortam deðiþkenlerinde path'e eklememiz gerek(bin dosyalarýný)
+
+javac -> java compiler = java dosyasý compile edilir ve byte koda dönüþür
+java -> oluþan byte kodu yorumlamak için kullanýlýr
+
+cmd üzerinde bunlarý çalýþtýrmak için ;
+jdk ve jre dosyalarýnýn bin uzantýlarýný kopyala ve bilgisayar->özellikler->geliþmiþ sistem ayarlarý-> ortam deðiþkenleri-> uzantýlarý Path'e ekle
+
+			CMD ÜZERÝNDE DERLEME VE BAÞLATMA ÝÞLEMLERÝNÝ YAPMAK
+
+1-> javac dosya_adi.java   // Dosyayi derledik bilgisayar diline
+2-> java dosya_adi	   // derlediðimiz dosyayý yorumladýk (sonuna class) yazmamýza gerek yok
